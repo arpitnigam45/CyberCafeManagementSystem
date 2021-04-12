@@ -2,14 +2,11 @@ The code structure  is as follows :
  
 Pacakage icmf contains all the required source files .You need to compile all the java source files before running the application 
 
-Step to compile the files
-1. Go to the directory "Source_Code_In_Java"
-2. Write command $javac icmf/*.java
+Step to compile and run the files
+1. Clone the Repository
+2. Navigate to folder CyberCafeManagementSystem
+3. Write the Command $javac Login.java
+4. Write the Command $ java Login
 
-Now you are ready to run the software 
 
-Steps to run the software :
-1. Go to the directory "Source_Code_In_Java"
-2. Write command $java icmf.Main_Frame
 
-Enjoy the software !!!!!!!!
